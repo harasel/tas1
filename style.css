@@ -739,6 +739,7 @@ hr {
   letter-spacing: 0.22em;
   text-transform: uppercase;
   color: var(--ink-muted);
+   border-block: var(--rule);
 }
 .creed__inner i { color: var(--gold-text); font-style: normal; }
 
